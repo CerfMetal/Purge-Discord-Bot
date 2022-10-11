@@ -1,1 +1,4 @@
-# Purge-Discord-Bot<img width="1039" alt="Screen Shot 2022-10-10 at 8 21 06 PM" src="https://user-images.githubusercontent.com/47288189/194971485-716578cb-6803-4435-af18-2e60204c5452.png">
+# Purge-Discord-Bot
+
+
+<img width="1039" alt="Purge discord bot" src="https://user-images.githubusercontent.com/47288189/194971996-7bdc8a37-38ca-40a8-87ad-22903549dd8d.png">
